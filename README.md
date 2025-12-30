@@ -1,5 +1,4 @@
 # Scaling an E-Commerce Analytics Platform in Databricks: An End-to-End Data + AI Project
-## Scaling E-Commerce Analytics with Distributed Computing, GenAI, and Statistical Modeling
 
 ## Project Overview - Link to Medium Article and Story of the Project: https://medium.com/@alijrizvi/scaling-an-e-commerce-analytics-platform-an-end-to-end-data-and-ai-project-875afe5d18db
 
