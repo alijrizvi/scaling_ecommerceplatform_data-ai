@@ -2,7 +2,7 @@
 
 ## Project Overview - Link to Medium Article and Story of the Project: https://medium.com/@alijrizvi/scaling-an-e-commerce-analytics-platform-an-end-to-end-data-and-ai-project-875afe5d18db
 
-This project demonstrates how a rapidly growing e-commerce company can migrate from fragile, single-machine Python ETL pipelines to a scalable, cloud-native analytics platform using Databricks and Apache Spark.
+This project, involving the "Scaling of E-Commerce Analytics with Distributed Computing, GenAI, and Statistical Modeling", demonstrates how a rapidly growing e-commerce company can migrate from fragile, single-machine Python ETL pipelines to a scalable, cloud-native analytics platform using Databricks and Apache Spark.
 
 As data volume and velocity increased, existing workflows became slow, unreliable, and difficult to maintain. This project was designed as a pilot implementation to validate whether Databricks could support scalable ingestion, transformation, analytics, BI, and statistical modeling on a unified platform.
 
